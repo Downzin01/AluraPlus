@@ -11,7 +11,7 @@
 Esse projeto foi desenvolvido durante o curso de HTML5 e CSS3 na Alura, reforçando mais o aprendizado e conhecimento de mais tecnologias. É uma página que reforça a ideia para assinar o Alura+, e nesse projeto possue o apredizado e utilização de programas, como:
 
 *    **FIGMA**(Design);
-*    **CSS3**(Criação de botões, posiocionamento, efeitos visuais, apriomoramento para usuários mobile;
+*    **CSS3**(Criação de botões, posiocionamento, efeitos visuais;
 *    **HTML5**(Texto, adicionamento de imagens.
 
 ## 📜 PÁGINA
